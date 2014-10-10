@@ -1726,4 +1726,16 @@
     "temperature_min": "54",
     "temperature_max": "77",
     "tolerance": "0"
+}, {
+    "id": "165",
+    "laboratory": "The Yeast Bay",
+    "strain": "",
+    "name": "Vermont Ale",
+    "description": "Isolated from a uniquely crafted double IPA out of the Northeastern United States, this yeast produces a balanced fruity ester profile of peaches and light citrus that complements any aggressively hopped beer.",
+    "attenuation_min": "75",
+    "attenuation_max": "82",
+    "flocculation": "Medium-Low",
+    "temperature_min": "66",
+    "temperature_max": "70",
+    "tolerance": "0"
 }]
