@@ -30,7 +30,7 @@ foreach ($array as $line){
     //Wrap strings in quotes.
     $line = array_map(function($obj){
       if(!is_numeric($obj))
-        return '"'.addslashes($obj).'"';
+        return "'".addslashes($obj)."'";
       else
         return $obj;
     }, $line);
