@@ -3,8 +3,8 @@ The yeast repository that can be found at brewerwall.com/api/v1/yeasts. Feel fre
 
 ## Updating Yeasts
 If you would like to update yeasts, update `yeasts_master.json`.  Once the file has been updated run:
-```php
-php generate_formats.php
+```bash
+./generate
 ```
 
-This command will generate a CSV and MYSQL file, along with copying over the master file to another json file.
+This command will generate a CSV and MYSQL file, along with copying over the master JSON file to another json file.  This is merely a bash script that calls a php file, so you must have php available.

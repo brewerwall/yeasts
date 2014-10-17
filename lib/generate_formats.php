@@ -1,12 +1,15 @@
 <?php
 
+//CONFIG
+$config = json_decode(file_get_contents("config.json"), true);
+
 // SCRIPTS VARS
-$master_file = "yeasts_master.json";
+$master_file = $config['data']."_master.json";
 $json = file_get_contents($master_file);
 $array = json_decode($json, true);
 
 // CONVERT MASTER FILE TO CSV
-$f_csv = fopen('formats/yeasts.csv', 'w');
+$f_csv = fopen('formats/'.$config['data'].'.csv', 'w');
 
 $keys_set = false;
 foreach ($array as $line){
@@ -18,12 +21,12 @@ foreach ($array as $line){
 }
 
 //CONVERT MASTER FILE TO MYSQL INSERT STATEMENTS
-$f_mysql = fopen('formats/yeasts.mysql', 'w');
+$f_mysql = fopen('formats/'.$config['data'].'.mysql', 'w');
 
 $keys_set = false;
 foreach ($array as $line){
     if(!$keys_set){
-        fwrite($f_mysql, "INSERT INTO yeasts (".implode(',',array_keys($line)).")\nVALUES\n");
+        fwrite($f_mysql, "INSERT INTO ".$config['data']." (".implode(',',array_keys($line)).")\nVALUES\n");
         $keys_set = true;
     }
 
@@ -40,4 +43,4 @@ foreach ($array as $line){
 fwrite($f_mysql, implode(",\n", $insert_values));
 
 // COPY MASTER FILE TO FORMATS
-copy($master_file, "formats/yeasts.json");
+copy($master_file, "formats/".$config['data'].".json");
