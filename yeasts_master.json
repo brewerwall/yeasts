@@ -1,4 +1,5 @@
-[{
+[
+  {
     "id": "1",
     "laboratory": "White Labs",
     "strain": "WLP001",
@@ -9,8 +10,10 @@
     "flocculation": "Medium",
     "temperature_min": "68",
     "temperature_max": "73",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "2",
     "laboratory": "White Labs",
     "strain": "WLP002",
@@ -21,8 +24,10 @@
     "flocculation": "Very High",
     "temperature_min": "65",
     "temperature_max": "68",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "3",
     "laboratory": "White Labs",
     "strain": "WLP004",
@@ -33,8 +38,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "65",
     "temperature_max": "68",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "4",
     "laboratory": "White Labs",
     "strain": "WLP005",
@@ -45,8 +52,10 @@
     "flocculation": "High",
     "temperature_min": "65",
     "temperature_max": "70",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "5",
     "laboratory": "White Labs",
     "strain": "WLP006",
@@ -57,8 +66,10 @@
     "flocculation": "High",
     "temperature_min": "65",
     "temperature_max": "70",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "6",
     "laboratory": "White Labs",
     "strain": "WLP007",
@@ -69,8 +80,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "65",
     "temperature_max": "70",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "7",
     "laboratory": "White Labs",
     "strain": "WLP008",
@@ -81,8 +94,10 @@
     "flocculation": "Medium to Low",
     "temperature_min": "68",
     "temperature_max": "73",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "8",
     "laboratory": "White Labs",
     "strain": "WLP009",
@@ -93,8 +108,10 @@
     "flocculation": "High",
     "temperature_min": "65",
     "temperature_max": "70",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "9",
     "laboratory": "White Labs",
     "strain": "WLP011",
@@ -105,8 +122,10 @@
     "flocculation": "Medium",
     "temperature_min": "65",
     "temperature_max": "70",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "10",
     "laboratory": "White Labs",
     "strain": "WLP013",
@@ -117,8 +136,10 @@
     "flocculation": "Medium",
     "temperature_min": "66",
     "temperature_max": "71",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "11",
     "laboratory": "White Labs",
     "strain": "WLP017",
@@ -129,8 +150,10 @@
     "flocculation": "High",
     "temperature_min": "66",
     "temperature_max": "70",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "12",
     "laboratory": "White Labs",
     "strain": "WLP022",
@@ -141,8 +164,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "66",
     "temperature_max": "70",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "13",
     "laboratory": "White Labs",
     "strain": "WLP023",
@@ -153,8 +178,10 @@
     "flocculation": "Medium",
     "temperature_min": "68",
     "temperature_max": "73",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "14",
     "laboratory": "White Labs",
     "strain": "WLP028",
@@ -165,20 +192,24 @@
     "flocculation": "Medium",
     "temperature_min": "65",
     "temperature_max": "70",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "15",
     "laboratory": "White Labs",
     "strain": "WLP029",
-    "name": "German Ale\/ Kolsch Yeast",
+    "name": "German Ale/ Kolsch Yeast",
     "description": "From a small brewpub in Cologne, Germany, this yeast works great in Kolsch and Alt style beers. Good for light beers like blond and honey. Accentuates hop flavors, similar to WLP001. The slight sulfur produced during fermentation will disappear with age a",
     "attenuation_min": "72",
     "attenuation_max": "78",
     "flocculation": "Medium",
     "temperature_min": "65",
     "temperature_max": "69",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "16",
     "laboratory": "White Labs",
     "strain": "WLP036",
@@ -189,8 +220,10 @@
     "flocculation": "Medium",
     "temperature_min": "65",
     "temperature_max": "69",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "17",
     "laboratory": "White Labs",
     "strain": "WLP037",
@@ -201,8 +234,10 @@
     "flocculation": "High",
     "temperature_min": "65",
     "temperature_max": "70",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "18",
     "laboratory": "White Labs",
     "strain": "WLP038",
@@ -213,8 +248,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "65",
     "temperature_max": "70",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "19",
     "laboratory": "White Labs",
     "strain": "WLP039",
@@ -225,8 +262,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "66",
     "temperature_max": "70",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "20",
     "laboratory": "White Labs",
     "strain": "WLP041",
@@ -237,8 +276,10 @@
     "flocculation": "High",
     "temperature_min": "65",
     "temperature_max": "68",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "21",
     "laboratory": "White Labs",
     "strain": "WLP045",
@@ -249,8 +290,10 @@
     "flocculation": "Medium",
     "temperature_min": "72",
     "temperature_max": "77",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "22",
     "laboratory": "White Labs",
     "strain": "WLP050",
@@ -261,8 +304,10 @@
     "flocculation": "Medium",
     "temperature_min": "75",
     "temperature_max": "79",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "23",
     "laboratory": "White Labs",
     "strain": "WLP051",
@@ -273,20 +318,24 @@
     "flocculation": "Medium to High",
     "temperature_min": "66",
     "temperature_max": "70",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "24",
     "laboratory": "White Labs",
     "strain": "WLP060",
     "name": "American Ale Yeast Blend",
-    "description": "Our most popular yeast strain is WLP001, California Ale Yeast. This blend celebrates the strengths of California- clean, neutral fermentation, versatile usage, and adds two other strains that belong to the same 'clean\/neutral' flavor category. The additio",
+    "description": "Our most popular yeast strain is WLP001, California Ale Yeast. This blend celebrates the strengths of California- clean, neutral fermentation, versatile usage, and adds two other strains that belong to the same 'clean/neutral' flavor category. The additio",
     "attenuation_min": "72",
     "attenuation_max": "80",
     "flocculation": "Medium",
     "temperature_min": "68",
     "temperature_max": "72",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "25",
     "laboratory": "White Labs",
     "strain": "WLP065",
@@ -297,8 +346,10 @@
     "flocculation": "Medium",
     "temperature_min": "75",
     "temperature_max": "82",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "26",
     "laboratory": "White Labs",
     "strain": "WLP070",
@@ -309,20 +360,24 @@
     "flocculation": "Medium",
     "temperature_min": "72",
     "temperature_max": "77",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "27",
     "laboratory": "White Labs",
     "strain": "WLP072",
     "name": "French Ale",
-    "description": "Clean strain that complements malt flavor. Low to moderate esters, when fermentation temperature is below 70\u00c2\u00b0F. Moderate plus ester character over 70\u00c2\u00b0F. Low diacetyl production. Good yeast strain for Biere de Garde, blond, amber, brown ales, and special",
+    "description": "Clean strain that complements malt flavor. Low to moderate esters, when fermentation temperature is below 70°F.  Moderate plus ester character over 70°F.  Low diacetyl production. Good yeast strain for Biere de Garde, blond, amber, brown ales, and specialty beers.",
     "attenuation_min": "68",
     "attenuation_max": "75",
     "flocculation": "Medium to High",
     "temperature_min": "63",
     "temperature_max": "73",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "28",
     "laboratory": "White Labs",
     "strain": "WLP076",
@@ -333,8 +388,10 @@
     "flocculation": "Medium",
     "temperature_min": "66",
     "temperature_max": "70",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "29",
     "laboratory": "White Labs",
     "strain": "WLP078",
@@ -345,8 +402,10 @@
     "flocculation": "Medium",
     "temperature_min": "76",
     "temperature_max": "85",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "30",
     "laboratory": "White Labs",
     "strain": "WLP080",
@@ -357,8 +416,10 @@
     "flocculation": "Medium",
     "temperature_min": "65",
     "temperature_max": "70",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "31",
     "laboratory": "White Labs",
     "strain": "WLP085",
@@ -369,8 +430,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "68",
     "temperature_max": "72",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "32",
     "laboratory": "White Labs",
     "strain": "WLP090",
@@ -381,8 +444,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "65",
     "temperature_max": "68",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "33",
     "laboratory": "White Labs",
     "strain": "WLP099",
@@ -393,8 +458,10 @@
     "flocculation": "Medium",
     "temperature_min": "65",
     "temperature_max": "69",
-    "tolerance": "25"
-}, {
+    "tolerance": "25",
+    "form": "Liquid"
+  },
+  {
     "id": "34",
     "laboratory": "White Labs",
     "strain": "WLP300",
@@ -405,8 +472,10 @@
     "flocculation": "Low",
     "temperature_min": "68",
     "temperature_max": "72",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "35",
     "laboratory": "White Labs",
     "strain": "WLP320",
@@ -417,8 +486,10 @@
     "flocculation": "Low",
     "temperature_min": "65",
     "temperature_max": "69",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "36",
     "laboratory": "White Labs",
     "strain": "WLP351",
@@ -429,8 +500,10 @@
     "flocculation": "Low",
     "temperature_min": "66",
     "temperature_max": "70",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "37",
     "laboratory": "White Labs",
     "strain": "WLP380",
@@ -441,8 +514,10 @@
     "flocculation": "Low",
     "temperature_min": "66",
     "temperature_max": "70",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "38",
     "laboratory": "White Labs",
     "strain": "WLP400",
@@ -453,8 +528,10 @@
     "flocculation": "Low to Medium",
     "temperature_min": "67",
     "temperature_max": "74",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "40",
     "laboratory": "White Labs",
     "strain": "WLP410",
@@ -465,8 +542,10 @@
     "flocculation": "Low to Medium",
     "temperature_min": "67",
     "temperature_max": "74",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "41",
     "laboratory": "White Labs",
     "strain": "WLP500",
@@ -477,20 +556,24 @@
     "flocculation": "Medium to Low",
     "temperature_min": "65",
     "temperature_max": "72",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "42",
     "laboratory": "White Labs",
     "strain": "WLP510",
     "name": "Bastogne Belgian Ale Yeast",
-    "description": "A high gravity, Trappist style ale yeast. Produces dry beer with slight acidic finish. More \u00c3\u00a2\u00e2\u201a\u00ac\u00cb\u0153clean\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2 fermentation character than WLP500 or WLP530. Not as spicy as WLP530 or WLP550. Excellent yeast for high gravity beers, Belgian ales, dubbels ",
+    "description": "A high gravity, Trappist style ale yeast. Produces dry beer with slight acidic finish. More ‘clean’ fermentation character than WLP500 or WLP530. Not as spicy as WLP530 or WLP550. Excellent yeast for high gravity beers, Belgian ales, dubbels and trippels.",
     "attenuation_min": "74",
     "attenuation_max": "80",
     "flocculation": "Medium",
     "temperature_min": "66",
     "temperature_max": "72",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "43",
     "laboratory": "White Labs",
     "strain": "WLP515",
@@ -501,8 +584,10 @@
     "flocculation": "Medium",
     "temperature_min": "67",
     "temperature_max": "70",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "44",
     "laboratory": "White Labs",
     "strain": "WLP530",
@@ -513,8 +598,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "66",
     "temperature_max": "72",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "45",
     "laboratory": "White Labs",
     "strain": "WLP540",
@@ -525,8 +612,10 @@
     "flocculation": "Medium",
     "temperature_min": "66",
     "temperature_max": "72",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "46",
     "laboratory": "White Labs",
     "strain": "WLP545",
@@ -537,8 +626,10 @@
     "flocculation": "Medium",
     "temperature_min": "66",
     "temperature_max": "72",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "47",
     "laboratory": "White Labs",
     "strain": "WLP550",
@@ -549,8 +640,10 @@
     "flocculation": "Medium",
     "temperature_min": "68",
     "temperature_max": "78",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "48",
     "laboratory": "White Labs",
     "strain": "WLP565",
@@ -561,8 +654,10 @@
     "flocculation": "Medium",
     "temperature_min": "68",
     "temperature_max": "75",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "49",
     "laboratory": "White Labs",
     "strain": "WLP566",
@@ -573,8 +668,10 @@
     "flocculation": "Medium",
     "temperature_min": "68",
     "temperature_max": "78",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "50",
     "laboratory": "White Labs",
     "strain": "WLP568",
@@ -585,8 +682,10 @@
     "flocculation": "Medium",
     "temperature_min": "70",
     "temperature_max": "80",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "51",
     "laboratory": "White Labs",
     "strain": "WLP570",
@@ -597,8 +696,10 @@
     "flocculation": "Low",
     "temperature_min": "68",
     "temperature_max": "75",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "52",
     "laboratory": "White Labs",
     "strain": "WLP575",
@@ -609,8 +710,10 @@
     "flocculation": "Medium",
     "temperature_min": "68",
     "temperature_max": "75",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "53",
     "laboratory": "White Labs",
     "strain": "WLP585",
@@ -621,8 +724,10 @@
     "flocculation": "Low to Medium",
     "temperature_min": "68",
     "temperature_max": "75",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "54",
     "laboratory": "White Labs",
     "strain": "WLP630",
@@ -633,8 +738,10 @@
     "flocculation": "Medium",
     "temperature_min": "68",
     "temperature_max": "72",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "55",
     "laboratory": "White Labs",
     "strain": "WLP644",
@@ -645,8 +752,10 @@
     "flocculation": "Low",
     "temperature_min": "70",
     "temperature_max": "85",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "56",
     "laboratory": "White Labs",
     "strain": "WLP645",
@@ -657,8 +766,10 @@
     "flocculation": "Low",
     "temperature_min": "85",
     "temperature_max": "85",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "57",
     "laboratory": "White Labs",
     "strain": "WLP650",
@@ -669,8 +780,10 @@
     "flocculation": "Low",
     "temperature_min": "85",
     "temperature_max": "85",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "58",
     "laboratory": "White Labs",
     "strain": "WLP653",
@@ -681,8 +794,10 @@
     "flocculation": "Low",
     "temperature_min": "85",
     "temperature_max": "85",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "59",
     "laboratory": "White Labs",
     "strain": "WLP655",
@@ -693,8 +808,10 @@
     "flocculation": "Low to Medium",
     "temperature_min": "80",
     "temperature_max": "85",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "60",
     "laboratory": "White Labs",
     "strain": "WLP665",
@@ -705,8 +822,10 @@
     "flocculation": "Low to Medium",
     "temperature_min": "68",
     "temperature_max": "80",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "61",
     "laboratory": "White Labs",
     "strain": "WLP670",
@@ -717,20 +836,24 @@
     "flocculation": "Medium",
     "temperature_min": "68",
     "temperature_max": "72",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "62",
     "laboratory": "White Labs",
     "strain": "WLP675",
     "name": "Malolactic Cultures",
-    "description": "Malolactic Fermentation is the conversion of malic acid to lactic acid by bacteria from the lactic acid bacteria family. Lactic acid is less acidic than malic acid, which in turn decreases acidity and helps to soften and\/or round out some of the flavors i",
+    "description": "Malolactic Fermentation is the conversion of malic acid to lactic acid by bacteria from the lactic acid bacteria family. Lactic acid is less acidic than malic acid, which in turn decreases acidity and helps to soften and/or round out some of the flavors i",
     "attenuation_min": "0",
     "attenuation_max": "0",
-    "flocculation": "N\/A",
+    "flocculation": "N/A",
     "temperature_min": "0",
     "temperature_max": "0",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "65",
     "laboratory": "White Labs",
     "strain": "WLP677",
@@ -741,8 +864,10 @@
     "flocculation": "Low",
     "temperature_min": "70",
     "temperature_max": "75",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "66",
     "laboratory": "White Labs",
     "strain": "WLP700",
@@ -750,11 +875,13 @@
     "description": "This yeast develops a film (flor) on the surface of the wine. Creates green almond, granny smith and nougat characteristics found in sherry. Can also be used for Port, Madeira and other sweet styles. For use in secondary fermentation. Slow fermentor.",
     "attenuation_min": "80",
     "attenuation_max": "100",
-    "flocculation": "N\/A",
+    "flocculation": "N/A",
     "temperature_min": "70",
     "temperature_max": "70",
-    "tolerance": "16"
-}, {
+    "tolerance": "16",
+    "form": "Liquid"
+  },
+  {
     "id": "67",
     "laboratory": "White Labs",
     "strain": "WLP705",
@@ -762,11 +889,13 @@
     "description": "For use in rice based fermentations. For sake, use this yeast in conjunction with Koji (to produce fermentable sugar). WLP705 produces full body sake character, and subtle fragrance.",
     "attenuation_min": "80",
     "attenuation_max": "100",
-    "flocculation": "N\/A",
+    "flocculation": "N/A",
     "temperature_min": "70",
     "temperature_max": "70",
-    "tolerance": "16"
-}, {
+    "tolerance": "16",
+    "form": "Liquid"
+  },
+  {
     "id": "68",
     "laboratory": "White Labs",
     "strain": "WLP707",
@@ -774,35 +903,41 @@
     "description": "Isolated from Pinot Noir grapes by White Labs in Davis, CA. This strain produces fruity and complex aromas, and is an ideal choice for hardy red wine varieties, as well as aromatic white wines such as Chardonnay. This strain is reliable for difficult ferm",
     "attenuation_min": "80",
     "attenuation_max": "100",
-    "flocculation": "N\/A",
+    "flocculation": "N/A",
     "temperature_min": "70",
     "temperature_max": "70",
-    "tolerance": "16"
-}, {
+    "tolerance": "16",
+    "form": "Liquid"
+  },
+  {
     "id": "69",
     "laboratory": "White Labs",
     "strain": "WLP709",
     "name": "Sake #9 Yeast",
-    "description": "For use in rice-based fermentations. Traditional strain used in Ginjo-shu production because of the yeast\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s development of high fragrance components. Also a fairly strong fermenter, but producing a foamless fermentation.",
+    "description": "For use in rice-based fermentations. Traditional strain used in Ginjo-shu production because of the yeast’s development of high fragrance components. Also a fairly strong fermenter, but producing a foamless fermentation.",
     "attenuation_min": "72",
     "attenuation_max": "78",
     "flocculation": "Low to Medium",
     "temperature_min": "62",
     "temperature_max": "68",
-    "tolerance": "16"
-}, {
+    "tolerance": "16",
+    "form": "Liquid"
+  },
+  {
     "id": "70",
     "laboratory": "White Labs",
     "strain": "WLP715",
     "name": "Champagne Yeast",
-    "description": "Classic yeast, used to produce champagne, cider, dry meads, dry wines, or to fully attenuate barley wines\/ strong ales. Neutral.",
+    "description": "Classic yeast, used to produce champagne, cider, dry meads, dry wines, or to fully attenuate barley wines/ strong ales. Neutral.",
     "attenuation_min": "75",
     "attenuation_max": "100",
     "flocculation": "Low",
     "temperature_min": "70",
     "temperature_max": "75",
-    "tolerance": "17"
-}, {
+    "tolerance": "17",
+    "form": "Liquid"
+  },
+  {
     "id": "71",
     "laboratory": "White Labs",
     "strain": "WLP718",
@@ -813,32 +948,38 @@
     "flocculation": "Low",
     "temperature_min": "60",
     "temperature_max": "90",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "72",
     "laboratory": "White Labs",
     "strain": "WLP720",
-    "name": "Sweet Mead\/Wine Yeast",
-    "description": "A wine yeast strain that is less attenuative than WLP715, leaving some residual sweetness. Slightly fruity and will tolerate alcohol concentrations up to 15%. A good choice for sweet mead and cider, as well as Blush wines, Gew\u00c3\u0192\u00c2\u00bcrztraminer, Sauternes, Ri",
+    "name": "Sweet Mead/Wine Yeast",
+    "description": "A wine yeast strain that is less attenuative than WLP715, leaving some residual sweetness. Slightly fruity and will tolerate alcohol concentrations up to 15%. A good choice for sweet mead and cider, as well as Blush wines, Gewürztraminer, Sauternes, Riesling.",
     "attenuation_min": "0",
     "attenuation_max": "75",
     "flocculation": "Low",
     "temperature_min": "70",
     "temperature_max": "75",
-    "tolerance": "15"
-}, {
+    "tolerance": "15",
+    "form": "Liquid"
+  },
+  {
     "id": "73",
     "laboratory": "White Labs",
     "strain": "WLP727",
     "name": "Steinberg-Geisenheim Wine Yeast",
-    "description": "German in origin, this yeast has high fruit\/ester production. Perfect for Riesling and Gew\u00c3\u0192\u00c2\u00bcrztraminer. Moderate fermentation characteristics and cold tolerant.",
+    "description": "German in origin, this yeast has high fruit/ester production. Perfect for Riesling and Gewürztraminer. Moderate fermentation characteristics and cold tolerant.",
     "attenuation_min": "80",
     "attenuation_max": "100",
     "flocculation": "Low",
     "temperature_min": "50",
     "temperature_max": "90",
-    "tolerance": "14"
-}, {
+    "tolerance": "14",
+    "form": "Liquid"
+  },
+  {
     "id": "74",
     "laboratory": "White Labs",
     "strain": "WLP730",
@@ -849,8 +990,10 @@
     "flocculation": "Low",
     "temperature_min": "50",
     "temperature_max": "90",
-    "tolerance": "14"
-}, {
+    "tolerance": "14",
+    "form": "Liquid"
+  },
+  {
     "id": "75",
     "laboratory": "White Labs",
     "strain": "WLP735",
@@ -861,8 +1004,10 @@
     "flocculation": "Low",
     "temperature_min": "60",
     "temperature_max": "90",
-    "tolerance": "16"
-}, {
+    "tolerance": "16",
+    "form": "Liquid"
+  },
+  {
     "id": "76",
     "laboratory": "White Labs",
     "strain": "WLP740",
@@ -873,8 +1018,10 @@
     "flocculation": "Low",
     "temperature_min": "60",
     "temperature_max": "90",
-    "tolerance": "18"
-}, {
+    "tolerance": "18",
+    "form": "Liquid"
+  },
+  {
     "id": "77",
     "laboratory": "White Labs",
     "strain": "WLP749",
@@ -885,8 +1032,10 @@
     "flocculation": "Low",
     "temperature_min": "50",
     "temperature_max": "90",
-    "tolerance": "16"
-}, {
+    "tolerance": "16",
+    "form": "Liquid"
+  },
+  {
     "id": "78",
     "laboratory": "White Labs",
     "strain": "WLP750",
@@ -897,8 +1046,10 @@
     "flocculation": "Low",
     "temperature_min": "60",
     "temperature_max": "90",
-    "tolerance": "17"
-}, {
+    "tolerance": "17",
+    "form": "Liquid"
+  },
+  {
     "id": "79",
     "laboratory": "White Labs",
     "strain": "WLP760",
@@ -909,8 +1060,10 @@
     "flocculation": "Low",
     "temperature_min": "60",
     "temperature_max": "90",
-    "tolerance": "16"
-}, {
+    "tolerance": "16",
+    "form": "Liquid"
+  },
+  {
     "id": "80",
     "laboratory": "White Labs",
     "strain": "WLP770",
@@ -921,8 +1074,10 @@
     "flocculation": "Low",
     "temperature_min": "60",
     "temperature_max": "90",
-    "tolerance": "16"
-}, {
+    "tolerance": "16",
+    "form": "Liquid"
+  },
+  {
     "id": "81",
     "laboratory": "White Labs",
     "strain": "WLP775",
@@ -933,8 +1088,10 @@
     "flocculation": "Medium",
     "temperature_min": "68",
     "temperature_max": "75",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "82",
     "laboratory": "White Labs",
     "strain": "WLP800",
@@ -945,8 +1102,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "50",
     "temperature_max": "55",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "83",
     "laboratory": "White Labs",
     "strain": "WLP802",
@@ -957,8 +1116,10 @@
     "flocculation": "Medium",
     "temperature_min": "50",
     "temperature_max": "55",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "84",
     "laboratory": "White Labs",
     "strain": "WLP810",
@@ -969,8 +1130,10 @@
     "flocculation": "High",
     "temperature_min": "58",
     "temperature_max": "65",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "85",
     "laboratory": "White Labs",
     "strain": "WLP815",
@@ -981,20 +1144,24 @@
     "flocculation": "Medium",
     "temperature_min": "50",
     "temperature_max": "55",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "86",
     "laboratory": "White Labs",
     "strain": "WLP820",
-    "name": "Oktoberfest\/M\u00c3\u0192\u00c2\u00a4rzen Lager Yeast",
+    "name": "Oktoberfest/Märzen Lager Yeast",
     "description": "This yeast produces a very malty, bock like style. It does not finish as dry as WLP830. This yeast is much slower in the first generation than WLP830, so we encourage a larger starter to be used the first generation or schedule a longer lagering time.",
     "attenuation_min": "65",
     "attenuation_max": "73",
     "flocculation": "Medium",
     "temperature_min": "52",
     "temperature_max": "58",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "87",
     "laboratory": "White Labs",
     "strain": "WLP830",
@@ -1005,8 +1172,10 @@
     "flocculation": "Medium",
     "temperature_min": "50",
     "temperature_max": "55",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "88",
     "laboratory": "White Labs",
     "strain": "WLP833",
@@ -1017,8 +1186,10 @@
     "flocculation": "Medium",
     "temperature_min": "48",
     "temperature_max": "55",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "89",
     "laboratory": "White Labs",
     "strain": "WLP838",
@@ -1029,8 +1200,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "50",
     "temperature_max": "55",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "90",
     "laboratory": "White Labs",
     "strain": "WLP840",
@@ -1041,8 +1214,10 @@
     "flocculation": "Medium",
     "temperature_min": "50",
     "temperature_max": "55",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "91",
     "laboratory": "White Labs",
     "strain": "WLP860",
@@ -1053,8 +1228,10 @@
     "flocculation": "Medium",
     "temperature_min": "48",
     "temperature_max": "52",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "92",
     "laboratory": "White Labs",
     "strain": "WLP862",
@@ -1065,8 +1242,10 @@
     "flocculation": "Low",
     "temperature_min": "55",
     "temperature_max": "58",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "93",
     "laboratory": "White Labs",
     "strain": "WLP885",
@@ -1077,8 +1256,10 @@
     "flocculation": "Medium",
     "temperature_min": "50",
     "temperature_max": "55",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "94",
     "laboratory": "White Labs",
     "strain": "WLP920",
@@ -1089,8 +1270,10 @@
     "flocculation": "Medium",
     "temperature_min": "50",
     "temperature_max": "55",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "95",
     "laboratory": "White Labs",
     "strain": "WLP940",
@@ -1101,8 +1284,10 @@
     "flocculation": "Medium",
     "temperature_min": "50",
     "temperature_max": "55",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "96",
     "laboratory": "Wyeast",
     "strain": "2000",
@@ -1113,8 +1298,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "48",
     "temperature_max": "56",
-    "tolerance": "9"
-}, {
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
     "id": "97",
     "laboratory": "Wyeast",
     "strain": "2001",
@@ -1125,8 +1312,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "48",
     "temperature_max": "56",
-    "tolerance": "9"
-}, {
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
     "id": "98",
     "laboratory": "Wyeast",
     "strain": "2007",
@@ -1137,8 +1326,10 @@
     "flocculation": "Medium",
     "temperature_min": "48",
     "temperature_max": "56",
-    "tolerance": "9"
-}, {
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
     "id": "99",
     "laboratory": "Wyeast",
     "strain": "2035",
@@ -1149,8 +1340,10 @@
     "flocculation": "Medium",
     "temperature_min": "48",
     "temperature_max": "58",
-    "tolerance": "9"
-}, {
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
     "id": "100",
     "laboratory": "Wyeast",
     "strain": "2042",
@@ -1161,20 +1354,24 @@
     "flocculation": "Low",
     "temperature_min": "46",
     "temperature_max": "56",
-    "tolerance": "9"
-}, {
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
     "id": "101",
     "laboratory": "Wyeast",
     "strain": "2112",
     "name": "California Lager",
-    "description": " This strain is particularly well suited for producing 19th century-style California Common-style beers. It retains lager characteristics at temperatures up to 65\u00c3\u201a\u00c2\u00b0F (18\u00c3\u201a\u00c2\u00b0C) and produces malty, brilliantly clear beers. This strain is not recommended f",
+    "description": "This strain is particularly well suited for producing California Common-style beers. It retains lager characteristics at temperatures up to 65°F (18°C) and produces malty, brilliantly clear beers. This strain is not recommended for cold temperature fermentation.",
     "attenuation_min": "67",
     "attenuation_max": "71",
     "flocculation": "High",
     "temperature_min": "58",
     "temperature_max": "68",
-    "tolerance": "9"
-}, {
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
     "id": "102",
     "laboratory": "Wyeast",
     "strain": "2124",
@@ -1185,8 +1382,10 @@
     "flocculation": "Low to Medium",
     "temperature_min": "45",
     "temperature_max": "68",
-    "tolerance": "9"
-}, {
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
     "id": "103",
     "laboratory": "Wyeast",
     "strain": "2206",
@@ -1197,8 +1396,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "46",
     "temperature_max": "58",
-    "tolerance": "9"
-}, {
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
     "id": "104",
     "laboratory": "Wyeast",
     "strain": "2278",
@@ -1209,8 +1410,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "50",
     "temperature_max": "58",
-    "tolerance": "9"
-}, {
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
     "id": "105",
     "laboratory": "Wyeast",
     "strain": "2308",
@@ -1221,8 +1424,10 @@
     "flocculation": "Medium",
     "temperature_min": "48",
     "temperature_max": "56",
-    "tolerance": "9"
-}, {
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
     "id": "106",
     "laboratory": "Wyeast",
     "strain": "2633",
@@ -1233,8 +1438,10 @@
     "flocculation": "Low to Medium",
     "temperature_min": "48",
     "temperature_max": "58",
-    "tolerance": "9"
-}, {
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
     "id": "111",
     "laboratory": "Wyeast",
     "strain": "1007",
@@ -1245,8 +1452,10 @@
     "flocculation": "Low",
     "temperature_min": "55",
     "temperature_max": "68",
-    "tolerance": "11"
-}, {
+    "tolerance": "11",
+    "form": "Liquid"
+  },
+  {
     "id": "112",
     "laboratory": "Wyeast",
     "strain": "1010",
@@ -1257,8 +1466,10 @@
     "flocculation": "Low",
     "temperature_min": "58",
     "temperature_max": "74",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "113",
     "laboratory": "Wyeast",
     "strain": "1028",
@@ -1269,44 +1480,52 @@
     "flocculation": "Low to Medium",
     "temperature_min": "60",
     "temperature_max": "72",
-    "tolerance": "11"
-}, {
+    "tolerance": "11",
+    "form": "Liquid"
+  },
+  {
     "id": "114",
     "laboratory": "Wyeast",
     "strain": "1056",
     "name": "American Ale",
-    "description": "Very clean, crisp flavor characteristics with low fruitiness and mild ester production. A very versatile yeast for styles that desire dominant malt and hop character. This strain makes a wonderful \u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201chouse\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u009d strain. Mild citrus notes develop with",
+    "description": "Very clean, crisp flavor characteristics with low fruitiness and mild ester production. A very versatile yeast for styles that desire dominant malt and hop character. This strain makes a wonderful “House” strain. Mild citrus notes develop with cooler 60-66°F (15-19ºC) fermentations. Normally requires filtration for bright beers.",
     "attenuation_min": "73",
     "attenuation_max": "77",
     "flocculation": "Low to Medium",
     "temperature_min": "60",
     "temperature_max": "72",
-    "tolerance": "11"
-}, {
+    "tolerance": "11",
+    "form": "Liquid"
+  },
+  {
     "id": "115",
     "laboratory": "Wyeast",
     "strain": "1084",
     "name": "Irish Ale",
-    "description": "This versatile yeast ferments extremely well in dark worts. It is a good choice for most high gravity beers. Beers fermented in the lower temperature range produce a dry, crisp profile with subtle fruitiness. Fruit and complex esters will increase when fe",
+    "description": "This versatile yeast ferments extremely well in dark worts. It is a good choice for most high gravity beers. Beers fermented in the lower temperature range produce a dry, crisp profile with subtle fruitiness. Fruit and complex esters will increase when fermentation temperatures are above 64°F (18°C).",
     "attenuation_min": "71",
     "attenuation_max": "75",
     "flocculation": "Medium",
     "temperature_min": "62",
     "temperature_max": "72",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "116",
     "laboratory": "Wyeast",
     "strain": "1098",
     "name": "British Ale",
-    "description": "This yeast allows malt and hop character to dominate the profile. It ferments dry and crisp, producing well-balanced beers with a clean and neutral finish. Ferments well down to to 64\u00c3\u201a\u00c2\u00b0F (18\u00c3\u201a\u00c2\u00b0C).",
+    "description": "This yeast allows malt and hop character to dominate the profile. It ferments dry and crisp, producing well-balanced beers with a clean and neutral finish. Ferments well down to 64°F (18°C).",
     "attenuation_min": "73",
     "attenuation_max": "75",
     "flocculation": "Medium",
     "temperature_min": "64",
     "temperature_max": "72",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "117",
     "laboratory": "Wyeast",
     "strain": "1099",
@@ -1317,8 +1536,10 @@
     "flocculation": "Medium to High",
     "temperature_min": "64",
     "temperature_max": "75",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "118",
     "laboratory": "Wyeast",
     "strain": "1187",
@@ -1329,20 +1550,38 @@
     "flocculation": "High",
     "temperature_min": "64",
     "temperature_max": "74",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "119",
     "laboratory": "Wyeast",
     "strain": "1272",
     "name": "American Ale II",
-    "description": "With many of the best qualities that brewers look for when brewing American styles of beer, this strain\u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u201e\u00a2s performance is consistent and it makes great beer. This versatile strain is a very good choice for a \u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201cHouse\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u009d strain. Expect a soft",
+    "description": "With many of the best qualities that brewers look for when brewing American styles of beer, this strain’s performance is consistent and it makes great beer. This versatile strain is a very good choice for a “House” strain. Expect a soft, clean profile with hints of nut, and a slightly tart finish. Ferment at warmer temperatures to accentuate hop character with an increased fruitiness. Or, ferment cool for a clean, light citrus character. It attenuates well and is reliably flocculent, producing bright beer without filtration.",
     "attenuation_min": "72",
     "attenuation_max": "76",
     "flocculation": "Medium",
     "temperature_min": "60",
     "temperature_max": "72",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
+    "id": "119",
+    "laboratory": "Wyeast",
+    "strain": "1272",
+    "name": "American Ale II",
+    "description": "With many of the best qualities that brewers look for when brewing American styles of beer, this strain’s performance is consistent and it makes great beer. This versatile strain is a very good choice for a “House” strain. Expect a soft, clean profile with hints of nut, and a slightly tart finish. Ferment at warmer temperatures to accentuate hop character with an increased fruitiness. Or, ferment cool for a clean, light citrus character. It attenuates well and is reliably flocculent, producing bright beer without filtration.",
+    "attenuation_min": "72",
+    "attenuation_max": "76",
+    "flocculation": "Medium",
+    "temperature_min": "60",
+    "temperature_max": "72",
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "120",
     "laboratory": "Wyeast",
     "strain": "1275",
@@ -1353,8 +1592,10 @@
     "flocculation": "Low to Medium",
     "temperature_min": "62",
     "temperature_max": "72",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "121",
     "laboratory": "Wyeast",
     "strain": "1318",
@@ -1365,8 +1606,10 @@
     "flocculation": "High",
     "temperature_min": "64",
     "temperature_max": "74",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "122",
     "laboratory": "Wyeast",
     "strain": "1332",
@@ -1377,8 +1620,10 @@
     "flocculation": "High",
     "temperature_min": "65",
     "temperature_max": "75",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "123",
     "laboratory": "Wyeast",
     "strain": "1335",
@@ -1389,8 +1634,10 @@
     "flocculation": "High",
     "temperature_min": "63",
     "temperature_max": "75",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "124",
     "laboratory": "Wyeast",
     "strain": "1450",
@@ -1401,8 +1648,10 @@
     "flocculation": "Low",
     "temperature_min": "60",
     "temperature_max": "70",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "125",
     "laboratory": "Wyeast",
     "strain": "1469",
@@ -1413,20 +1662,24 @@
     "flocculation": "High",
     "temperature_min": "64",
     "temperature_max": "72",
-    "tolerance": "9"
-}, {
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
     "id": "126",
     "laboratory": "Wyeast",
     "strain": "1728",
     "name": "Scottish Ale",
-    "description": "Our Scottish ale strain is ideally suited for the strong, malty ales of Scotland. This strain is very versatile, and is often used as a \u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201chouse\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u009d strain as it ferments neutral and clean. Higher fermentation temperatures will result in an increas",
+    "description": "Our Scottish ale strain is ideally suited for the strong, malty ales of Scotland. This strain is very versatile, and is often used as a “House” strain as it ferments neutral and clean. Higher fermentation temperatures will result in an increased ester profile.",
     "attenuation_min": "69",
     "attenuation_max": "73",
     "flocculation": "High",
     "temperature_min": "55",
     "temperature_max": "75",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "127",
     "laboratory": "Wyeast",
     "strain": "1968",
@@ -1437,20 +1690,24 @@
     "flocculation": "Very High",
     "temperature_min": "64",
     "temperature_max": "72",
-    "tolerance": "9"
-}, {
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
     "id": "128",
     "laboratory": "Wyeast",
     "strain": "2565",
-    "name": "K\u00c3\u00b6lsch",
+    "name": "Kölsch",
     "description": "This strain is a classic, true top cropping yeast strain from a traditional brewery in Cologne, Germany. Beers will exhibit some of the fruity character of an ale, with a clean lager like profile. It produces low or no detectable levels of diacetyl. This ",
     "attenuation_min": "73",
     "attenuation_max": "77",
     "flocculation": "Low",
     "temperature_min": "56",
     "temperature_max": "70",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "142",
     "laboratory": "Wyeast",
     "strain": "1214",
@@ -1461,8 +1718,10 @@
     "flocculation": "Low to Medium",
     "temperature_min": "68",
     "temperature_max": "78",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "143",
     "laboratory": "Wyeast",
     "strain": "1388",
@@ -1473,20 +1732,24 @@
     "flocculation": "Low",
     "temperature_min": "64",
     "temperature_max": "80",
-    "tolerance": "13"
-}, {
+    "tolerance": "13",
+    "form": "Liquid"
+  },
+  {
     "id": "144",
     "laboratory": "Wyeast",
     "strain": "1762",
     "name": "Belgian Abbey II",
-    "description": "An excellent yeast strain for use in Belgian dark strong ales. This strain has a relatively \u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201cclean\u00c3\u00a2\u00e2\u201a\u00ac\u00c2\u009d profile which allows a rich malt and distinctive ethanol character to shine. Delicate dried fruit esters can be produced when used at higher fe",
+    "description": "An excellent yeast strain for use in Belgian dark strong ales. This strain has a relatively “clean profile” which allows a rich malt and distinctive ethanol character to shine. Delicate dried fruit esters can be produced when used at higher fermentation temperatures or in a high gravity wort.",
     "attenuation_min": "73",
     "attenuation_max": "77",
     "flocculation": "Medium",
     "temperature_min": "65",
     "temperature_max": "75",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "145",
     "laboratory": "Wyeast",
     "strain": "3056",
@@ -1497,8 +1760,10 @@
     "flocculation": "Medium",
     "temperature_min": "64",
     "temperature_max": "74",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "146",
     "laboratory": "Wyeast",
     "strain": "3068",
@@ -1509,8 +1774,10 @@
     "flocculation": "Low",
     "temperature_min": "64",
     "temperature_max": "75",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "147",
     "laboratory": "Wyeast",
     "strain": "3333",
@@ -1521,8 +1788,10 @@
     "flocculation": "High",
     "temperature_min": "63",
     "temperature_max": "75",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "148",
     "laboratory": "Wyeast",
     "strain": "3463",
@@ -1533,8 +1802,10 @@
     "flocculation": "Low",
     "temperature_min": "63",
     "temperature_max": "76",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "149",
     "laboratory": "Wyeast",
     "strain": "3522",
@@ -1545,8 +1816,10 @@
     "flocculation": "High",
     "temperature_min": "65",
     "temperature_max": "76",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "150",
     "laboratory": "Wyeast",
     "strain": "3638",
@@ -1557,8 +1830,10 @@
     "flocculation": "Low",
     "temperature_min": "64",
     "temperature_max": "75",
-    "tolerance": "10"
-}, {
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
     "id": "151",
     "laboratory": "Wyeast",
     "strain": "3711",
@@ -1569,8 +1844,10 @@
     "flocculation": "Low",
     "temperature_min": "65",
     "temperature_max": "77",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "152",
     "laboratory": "Wyeast",
     "strain": "3724",
@@ -1581,8 +1858,10 @@
     "flocculation": "Low",
     "temperature_min": "70",
     "temperature_max": "95",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "153",
     "laboratory": "Wyeast",
     "strain": "3787",
@@ -1593,8 +1872,10 @@
     "flocculation": "Medium",
     "temperature_min": "64",
     "temperature_max": "78",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "154",
     "laboratory": "Wyeast",
     "strain": "3942",
@@ -1605,8 +1886,10 @@
     "flocculation": "Medium",
     "temperature_min": "64",
     "temperature_max": "74",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "155",
     "laboratory": "Wyeast",
     "strain": "3944",
@@ -1617,11 +1900,13 @@
     "flocculation": "Medium",
     "temperature_min": "62",
     "temperature_max": "75",
-    "tolerance": "12"
-}, {
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
     "id": "156",
     "laboratory": "Fermentis",
-    "strain": "S04",
+    "strain": "S-04",
     "name": "Safale S-04",
     "description": "English ale yeast selected for its fast fermentation character and its ability to form a compact sediment at the end of fermentation, helping to improve beer clarity. Recommended for the production of a large range of ales and specially adapted to cask-co",
     "attenuation_min": "75",
@@ -1629,23 +1914,27 @@
     "flocculation": "High",
     "temperature_min": "54",
     "temperature_max": "77",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
     "id": "157",
     "laboratory": "Fermentis",
-    "strain": "S05",
-    "name": "Safale S-05",
+    "strain": "US-05",
+    "name": "Safale US-05",
     "description": "American ale yeast producing well balanced beers with low diacetyl and a very clean, crisp end palate. Forms a firm foam head and presents a very good ability to stay in suspension during fermentation.",
     "attenuation_min": "81",
     "attenuation_max": "81",
     "flocculation": "Medium",
     "temperature_min": "54",
     "temperature_max": "77",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
     "id": "158",
     "laboratory": "Fermentis",
-    "strain": "K97",
+    "strain": "K-97",
     "name": "Safale K-97",
     "description": "German ale yeast selected for its ability to form a large firm head when fermenting. Suitable to brew ales with low esters and can be used for Belgian type wheat beers. Its lower attenuation profile gives beers with a good length on the palate.",
     "attenuation_min": "81",
@@ -1653,11 +1942,13 @@
     "flocculation": "High",
     "temperature_min": "54",
     "temperature_max": "77",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
     "id": "159",
     "laboratory": "Fermentis",
-    "strain": "S23",
+    "strain": "S-23",
     "name": "Saflager S-23",
     "description": "Bottom fermenting yeast originating from the VLB - Berlin in Germany recommended for the production of fruity and estery lagers. Its lower attenuation profile gives beers with a good length on the palate.",
     "attenuation_min": "82",
@@ -1665,35 +1956,41 @@
     "flocculation": "High",
     "temperature_min": "48",
     "temperature_max": "72",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
     "id": "160",
     "laboratory": "Fermentis",
-    "strain": "S34\/70",
-    "name": "Saflager S-34\/70",
-    "description": "This famous yeast strain from Weihenstephan in Germany is used world-wide within the brewing industry. Saflager W-34\/70 allows to brew beers with a good balance of floral and fruity aromas and gives clean flavors and high drinkable beers.",
+    "strain": "W-34/70",
+    "name": "Saflager W-34/70",
+    "description": "This famous yeast strain from Weihenstephan in Germany is used world-wide within the brewing industry. Saflager W-34/70 allows to brew beers with a good balance of floral and fruity aromas and gives clean flavors and high drinkable beers.",
     "attenuation_min": "83",
     "attenuation_max": "83",
     "flocculation": "High",
     "temperature_min": "48",
     "temperature_max": "72",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
     "id": "161",
     "laboratory": "Fermentis",
-    "strain": "S189",
+    "strain": "S-189",
     "name": "Saflager S-189",
-    "description": "Originating from the H\u00c3\u00bcrlimann brewery in Switzerland. This lager strain\u00e2\u20ac\u2122s attenuation profile allows to brew fairly neutral flavor beers with a high drinkability.",
+    "description": "Originating from the Hürlimann brewery in Switzerland. This lager strain’s attenuation profile allows to brew fairly neutral flavor beers with a high drinkability.",
     "attenuation_min": "84",
     "attenuation_max": "84",
     "flocculation": "High",
     "temperature_min": "48",
     "temperature_max": "72",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
     "id": "162",
     "laboratory": "Fermentis",
-    "strain": "T58",
+    "strain": "T-58",
     "name": "Safbrew T-58",
     "description": "Specialty yeast selected for its estery somewhat peppery and spicy flavor development. Yeast with a good sedimentation: forms no clumps but a powdery haze when resuspended in the beer.",
     "attenuation_min": "70",
@@ -1701,11 +1998,13 @@
     "flocculation": "Powdery",
     "temperature_min": "54",
     "temperature_max": "77",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
     "id": "163",
     "laboratory": "Fermentis",
-    "strain": "S33",
+    "strain": "S-33",
     "name": "Safbrew S-33",
     "description": "General purpose ale yeast with neutral flavor profiles. Its low attenuation gives beers with a very good length on the palate. Particularly recom- mended for specialty ales and trappist type beers. Yeast with a good sedimentation: forms no clumps but a po",
     "attenuation_min": "70",
@@ -1713,11 +2012,13 @@
     "flocculation": "Powdery",
     "temperature_min": "54",
     "temperature_max": "77",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
     "id": "164",
     "laboratory": "Fermentis",
-    "strain": "WB06",
+    "strain": "WB-06",
     "name": "Safbrew WB-06",
     "description": "Specialty yeast selected for wheat beer fermentations. Produces subtle estery and phenol flavor notes typical of wheat beers. Allows to brew beer with a high drinkability profile and presents a very good ability to suspend during fermentation.",
     "attenuation_min": "86",
@@ -1725,8 +2026,10 @@
     "flocculation": "Low",
     "temperature_min": "54",
     "temperature_max": "77",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
     "id": "165",
     "laboratory": "The Yeast Bay",
     "strain": "",
@@ -1737,8 +2040,10 @@
     "flocculation": "Medium-Low",
     "temperature_min": "66",
     "temperature_max": "70",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "166",
     "laboratory": "The Yeast Bay",
     "strain": "",
@@ -1749,8 +2054,10 @@
     "flocculation": "Medium",
     "temperature_min": "68",
     "temperature_max": "78",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "167",
     "laboratory": "The Yeast Bay",
     "strain": "",
@@ -1761,8 +2068,10 @@
     "flocculation": "Medium-Low",
     "temperature_min": "68",
     "temperature_max": "73",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "168",
     "laboratory": "The Yeast Bay",
     "strain": "",
@@ -1773,8 +2082,10 @@
     "flocculation": "Medium-Low",
     "temperature_min": "68",
     "temperature_max": "80",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "169",
     "laboratory": "The Yeast Bay",
     "strain": "",
@@ -1785,8 +2096,10 @@
     "flocculation": "Medium-High",
     "temperature_min": "70",
     "temperature_max": "76",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "170",
     "laboratory": "East Coast Yeast",
     "strain": "ECY07",
@@ -1797,8 +2110,10 @@
     "flocculation": "",
     "temperature_min": "60",
     "temperature_max": "68",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "171",
     "laboratory": "East Coast Yeast",
     "strain": "ECY08",
@@ -1809,8 +2124,10 @@
     "flocculation": "",
     "temperature_min": "75",
     "temperature_max": "85",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "172",
     "laboratory": "East Coast Yeast",
     "strain": "ECY09",
@@ -1821,8 +2138,10 @@
     "flocculation": "",
     "temperature_min": "66",
     "temperature_max": "72",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "173",
     "laboratory": "East Coast Yeast",
     "strain": "ECY10",
@@ -1833,8 +2152,10 @@
     "flocculation": "",
     "temperature_min": "60",
     "temperature_max": "68",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "174",
     "laboratory": "East Coast Yeast",
     "strain": "ECY11",
@@ -1845,8 +2166,10 @@
     "flocculation": "",
     "temperature_min": "70",
     "temperature_max": "76",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "175",
     "laboratory": "East Coast Yeast",
     "strain": "ECY12",
@@ -1857,8 +2180,10 @@
     "flocculation": "",
     "temperature_min": "58",
     "temperature_max": "68",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "176",
     "laboratory": "East Coast Yeast",
     "strain": "ECY13",
@@ -1869,8 +2194,10 @@
     "flocculation": "",
     "temperature_min": "66",
     "temperature_max": "72",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "177",
     "laboratory": "East Coast Yeast",
     "strain": "ECY14",
@@ -1881,8 +2208,10 @@
     "flocculation": "",
     "temperature_min": "75",
     "temperature_max": "82",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "178",
     "laboratory": "East Coast Yeast",
     "strain": "ECY17",
@@ -1893,8 +2222,10 @@
     "flocculation": "",
     "temperature_min": "64",
     "temperature_max": "69",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "179",
     "laboratory": "East Coast Yeast",
     "strain": "ECY18",
@@ -1905,8 +2236,10 @@
     "flocculation": "",
     "temperature_min": "60",
     "temperature_max": "68",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "180",
     "laboratory": "East Coast Yeast",
     "strain": "ECY21",
@@ -1917,8 +2250,10 @@
     "flocculation": "",
     "temperature_min": "58",
     "temperature_max": "66",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "181",
     "laboratory": "East Coast Yeast",
     "strain": "ECY28",
@@ -1929,8 +2264,10 @@
     "flocculation": "",
     "temperature_min": "46",
     "temperature_max": "54",
-    "tolerance": "0"
-}, {
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
     "id": "182",
     "laboratory": "East Coast Yeast",
     "strain": "ECY29",
@@ -1941,5 +2278,889 @@
     "flocculation": "",
     "temperature_min": "65",
     "temperature_max": "70",
-    "tolerance": "0"
-}]
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
+    "id": "183",
+    "laboratory": "Brewferm",
+    "strain": "",
+    "name": "Blanche Yeast",
+    "description": "Top fermenting strain for Belgian witbier and wheats.  Spicy and lightly phenolic.",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "Medium",
+    "temperature_min": "64",
+    "temperature_max": "73",
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
+    "id": "184",
+    "laboratory": "Brewferm",
+    "strain": "",
+    "name": "Lager Yeast",
+    "description": "A dry lager yeast with high attenuation.  Ferments clean and malty.",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "High",
+    "temperature_min": "50",
+    "temperature_max": "59",
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
+    "id": "185",
+    "laboratory": "Brewferm",
+    "strain": "",
+    "name": "Top Yeast",
+    "description": "Top fermenting yeast that most suitable for amber coloured and dark beers. Fast fermentation with low residual sugar. Formation of fruity esters.",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "High",
+    "temperature_min": "64",
+    "temperature_max": "77",
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
+    "id": "186",
+    "laboratory": "Coopers",
+    "strain": "",
+    "name": "Cooper Ale",
+    "description": "General purpose dry ale yeast with a very good reputation.  Produces significant fruity flavors.  No phenolics.  Clean, fruity finish.",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "Medium",
+    "temperature_min": "62",
+    "temperature_max": "72",
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
+    "id": "187",
+    "laboratory": "Danstar",
+    "strain": "",
+    "name": "BRY-97 American West Coast Ale",
+    "description": "BRY-97 produces some esters which results in beers that are slightly estery and almost neutral.",
+    "attenuation_min": "75",
+    "attenuation_max": "80",
+    "flocculation": "High",
+    "temperature_min": "59",
+    "temperature_max": "72",
+    "tolerance": "12",
+    "form": "Dry"
+  },
+  {
+    "id": "188",
+    "laboratory": "Danstar",
+    "strain": "",
+    "name": "Belle Saison Belgian Saison-Style",
+    "description": "Belle Saison produces esters and phenols, which results in beers with fruity, peppery and spicy flavors and aromas.",
+    "attenuation_min": "75",
+    "attenuation_max": "80",
+    "flocculation": "High",
+    "temperature_min": "59",
+    "temperature_max": "95",
+    "tolerance": "14",
+    "form": "Dry"
+  },
+  {
+    "id": "189",
+    "laboratory": "Danstar",
+    "strain": "",
+    "name": "CBC-1 Yeast for Cask & Bottle Conditioning",
+    "description": "Neutral flavor and aroma. Alcohol resistant. Not able to utilize maltotriose.",
+    "attenuation_min": "70",
+    "attenuation_max": "75",
+    "flocculation": "High",
+    "temperature_min": "68",
+    "temperature_max": "77",
+    "tolerance": "12",
+    "form": "Dry"
+  },
+  {
+    "id": "190",
+    "laboratory": "Danstar",
+    "strain": "",
+    "name": "Diamond Lager",
+    "description": "Typical German lager yeast. Crisp and clean finish.",
+    "attenuation_min": "75",
+    "attenuation_max": "80",
+    "flocculation": "High",
+    "temperature_min": "50",
+    "temperature_max": "59",
+    "tolerance": "7",
+    "form": "Dry"
+  },
+  {
+    "id": "191",
+    "laboratory": "Danstar",
+    "strain": "",
+    "name": "Munich Wheat",
+    "description": "German wheat beer yeast from Bavaria producing typical banana and clovy flavors.",
+    "attenuation_min": "75",
+    "attenuation_max": "80",
+    "flocculation": "Low",
+    "temperature_min": "63",
+    "temperature_max": "76",
+    "tolerance": "7",
+    "form": "Dry"
+  },
+  {
+    "id": "192",
+    "laboratory": "Danstar",
+    "strain": "",
+    "name": "Nottingham Ale",
+    "description": "Neutral flavors and aroma.",
+    "attenuation_min": "75",
+    "attenuation_max": "80",
+    "flocculation": "High",
+    "temperature_min": "50",
+    "temperature_max": "73",
+    "tolerance": "9",
+    "form": "Dry"
+  },
+  {
+    "id": "193",
+    "laboratory": "Danstar",
+    "strain": "",
+    "name": "Windsor British Style",
+    "description": "Windsor produces esters and the resulting beers display fruity flavors and aromas. This particular strain is not able to use the sugar maltotriose (a molecule com- posed of 3 glucose units) which is present in the wort in an average of 10-15% in all-malt worts. The consequence of this will be residual sweetness in the beer.",
+    "attenuation_min": "70",
+    "attenuation_max": "75",
+    "flocculation": "Low",
+    "temperature_min": "59",
+    "temperature_max": "72",
+    "tolerance": "7",
+    "form": "Dry"
+  },
+  {
+    "id": "194",
+    "laboratory": "Mangrove Jack's",
+    "strain": "M02",
+    "name": "Craft Series Cider Yeast",
+    "description": "Mangrove Jack’s Cider Yeast is a high ester-producing strain, imparting wonderful flavor depth, revealing the full fruit potential of the juice. Ciders fermented using this strain are exceptionally crisp, flavorsome and refreshing in taste. This highly robust yeast has good fructose assimilation and is capable of fermenting under challenging conditions and over a wide temperature range. Mangrove Jack’s Cider Yeast is a highly flocculent strain, suitable for all styles of cider. Trace nutrients have been blended with the yeast in Mangrove Jack’s Cider Yeast sachets for optimum yeast health, fermentation performance and cider quality.",
+    "attenuation_min": "75",
+    "attenuation_max": "80",
+    "flocculation": "High",
+    "temperature_min": "54",
+    "temperature_max": "82",
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
+    "id": "195",
+    "laboratory": "Mangrove Jack's",
+    "strain": "M03",
+    "name": "Newcastle Dark Ale Yeast",
+    "description": "Newcastle Dark Ale Yeast successfully brings classic cask ale production into the homebrew or craft setting. This is a top-fermentation strain well suited for fermenting British ales, particularly dark and full bodied ales, mild brown ales and Scottish Heavy ales. Selected to not over attenuate, this strain will stop short of the low end gravities exhibited by other yeast strains. Dark fruity esters are pronounced when fermented at the appropriate temperature. Care should be taken to adjust hop bitterness to ensures it suits the ester character and complements the fuller bodied finish.",
+    "attenuation_min": "70",
+    "attenuation_max": "75",
+    "flocculation": "Medium",
+    "temperature_min": "64",
+    "temperature_max": "72",
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
+    "id": "196",
+    "laboratory": "Mangrove Jack's",
+    "strain": "M07",
+    "name": "British Ale Yeast",
+    "description": "A neutral top-fermenting strain especially suited for brewing silky smooth light ales with a neutral yeast aroma and flavor contribution. This strain also works well for stronger ales where a soft and balanced mouth feel is desired and where the nutty, spicy and earthy hop and malt characteristics should be enhanced. This yeast strain is highly flocculent and not prone to autolysis, making it an excellent choice for both cask and bottle conditioned beer.",
+    "attenuation_min": "75",
+    "attenuation_max": "80",
+    "flocculation": "Very High",
+    "temperature_min": "57",
+    "temperature_max": "72",
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
+    "id": "197",
+    "laboratory": "Mangrove Jack's",
+    "strain": "M10",
+    "name": "Workhorse Yeast",
+    "description": "Workhorse Beer yeast is a true all rounder, suitable for a myriad of beer styles at extremely high gravities and different brewing temperatures. From Baltic porter to ambient temperature fermented lagers, this top-fermenting strain has such a clean flavor and aroma profile that it is suitable for almost every application. It is a robust strain with rapid and reliable fermentation performance, good attenuation properties, and ideally suited to making cask or bottle conditioned beers. This highly versatile strain also has very good ethanol tolerance up to 9% ABV and excellent temperature tolerance up to 90°F (32°C).",
+    "attenuation_min": "75",
+    "attenuation_max": "80",
+    "flocculation": "Medium",
+    "temperature_min": "68",
+    "temperature_max": "90",
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
+    "id": "198",
+    "laboratory": "Mangrove Jack's",
+    "strain": "M20",
+    "name": "Bavarian Wheat Yeast",
+    "description": "A classic top-fermenting yeast suited for brewing a range of German Weizens as well as Belgian Witbier. It has a very low flocculation rate and a clean, \"yeasty\" aroma which makes it ideal for beers that are traditionally served cloudy. This yeast creates beer with a low to completely dry level of sweetness, medium body with a silky mouth feel, and a delicious banana and spice aroma.",
+    "attenuation_min": "70",
+    "attenuation_max": "75",
+    "flocculation": "Low",
+    "temperature_min": "59",
+    "temperature_max": "86",
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
+    "id": "199",
+    "laboratory": "Mangrove Jack's",
+    "strain": "M27",
+    "name": "Belgian Ale Yeast",
+    "description": "With a myriad of flavours and aromas embraced by master brewers all over Belgium, this strain has been specially developed to bring the best of these flavors to the home or craft brewer. Belgian ale yeast is an exceptional top-fermenting yeast strain creating distinctive beers with spicy, fruity and peppery notes. Ideal for fermentation of Belgian Saison or farmhouse style beers, but also suitable for other Belgian styles. This yeast is highly attenuative and has a high ethanol tolerance that makes it ideal for creating most Belgian beer styles, including Quadrupel styles of up to 14% ABV. At higher alcohol levels fermentation may take longer but the strain is robust enough to deal with almost anything. This strain successfully brings the sophistication of classic Belgian ale production to the home and small brewery.",
+    "attenuation_min": "80",
+    "attenuation_max": "85",
+    "flocculation": "Medium",
+    "temperature_min": "79",
+    "temperature_max": "90",
+    "tolerance": "14",
+    "form": "Dry"
+  },
+  {
+    "id": "200",
+    "laboratory": "Mangrove Jack's",
+    "strain": "M44",
+    "name": "US West Coast Yeast",
+    "description": "U.S. West Coast Yeast is a high attenuating, top-fermenting strain that ferments with almost completely neutral attributes across a wide range of wort strengths and temperature ranges. It produces a moderately high acidity which allows the tangy citrus hop aromas to really punch through, while also enhancing toasted and dark malt characters. If you plan to use a lot of expensive flavourful hops as the prominent feature of your beer, use this yeast.",
+    "attenuation_min": "75",
+    "attenuation_max": "80",
+    "flocculation": "High",
+    "temperature_min": "59",
+    "temperature_max": "74",
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
+    "id": "201",
+    "laboratory": "Mangrove Jack's",
+    "strain": "M79",
+    "name": "Burton Union Yeast",
+    "description": "Famous the world over for its crisp, dry and uniquely malty and hoppy ales, this strain has been isolated and developed especially for the home and craft brewer from a commercial brewery in the heartland of British Brewing. Burton Union Yeast is a gentle but rapid fermenter that generates light and delicate ripe pear esters and does not strip away light malt character or body. Moderate acidity balances the silky smooth texture of beers fermented with this strain. When hops or malt aromas are stronger, the yeast contribution will be neutral. When used in lighter quality malt bases, the hops and esters are able to shine. Beers made with this yeast are quick to condition, giving you great beer in as little as 3 weeks.",
+    "attenuation_min": "75",
+    "attenuation_max": "80",
+    "flocculation": "High",
+    "temperature_min": "62",
+    "temperature_max": "74",
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
+    "id": "202",
+    "laboratory": "Mangrove Jack's",
+    "strain": "M84",
+    "name": "Bohemian Lager Yeast",
+    "description": "Bohemian Lager is a classic bottom-fermenting, continental lager strain that produces elegant, well balanced beers. Bohemian Lager Yeast is characterized by its dry and clean palate, typical of traditional Czech brewing. This strain confers smooth, subtle yeast characteristics with muted fruit notes, resulting in refreshingly crisp lagers with expressive hop character. While rich and chewy, the beers fermented with this strain will not be sweet, but may have an elusive sweet malt flavor in the aftertaste. Lagering periods as short as 4 weeks may produce acceptable beer, but allowing beer to lager 6-8 weeks will result in beer that is richer, smoother, with a more refined aroma and flavor.",
+    "attenuation_min": "75",
+    "attenuation_max": "80",
+    "flocculation": "High",
+    "temperature_min": "50",
+    "temperature_max": "59",
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
+    "id": "203",
+    "laboratory": "White Labs",
+    "strain": "WLP003",
+    "name": "German Ale II",
+    "description": "Strong sulfer component will reduce with aging.  Clean flavor, but with more ester production than regular German Ale Yeast.",
+    "attenuation_min": "73",
+    "attenuation_max": "80",
+    "flocculation": "Medium",
+    "temperature_min": "65",
+    "temperature_max": "70",
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
+    "id": "204",
+    "laboratory": "White Labs",
+    "strain": "WLP025",
+    "name": "Southwold Ale",
+    "description": "From Suffolk county.  Products complex fruity and citrus flavors.  Slight sulfer production, but this will fade with ageing.",
+    "attenuation_min": "68",
+    "attenuation_max": "75",
+    "flocculation": "Medium",
+    "temperature_min": "66",
+    "temperature_max": "69",
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
+    "id": "205",
+    "laboratory": "White Labs",
+    "strain": "WLP026",
+    "name": "Premium Bitter Ale",
+    "description": "From Staffordshire England.  Mild, but complex estery flavor.  High attenuation - ferments strong and dry.  Suitable for high gravity beers.",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "Medium",
+    "temperature_min": "67",
+    "temperature_max": "70",
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
+    "id": "206",
+    "laboratory": "White Labs",
+    "strain": "WLP033",
+    "name": "Klassic Ale Yeast",
+    "description": "Traditional English Ale style yeast.  Produces ester character, and allows hop flavor through.  Leaves a slightly sweet malt character in ales.",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "Medium",
+    "temperature_min": "66",
+    "temperature_max": "70",
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
+    "id": "207",
+    "laboratory": "Wyeast",
+    "strain": "1026",
+    "name": "British Cask Ale",
+    "description": "A great choice for any cask conditioned British Ale.  Produces nice malt profile with a hint of fruit. Finishes dry and slightly tart. ",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "Medium",
+    "temperature_min": "63",
+    "temperature_max": "72",
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
+    "id": "208",
+    "laboratory": "Wyeast",
+    "strain": "1203",
+    "name": "Burton IPA Blend",
+    "description": "The revival of interest in historic and classic English IPA styles calls for a specialized yeast – this blend highlights hop bitterness and aroma while still allowing full expression of authentic water profiles and pale malts. Low to moderate ester level can be manipulated through fermentation temperature and pitching rate. Palate finish is typically neutral to mildly fruity with some maltiness. Good flocculation characteristics make this an excellent candidate for cask conditioning.",
+    "attenuation_min": "71",
+    "attenuation_max": "74",
+    "flocculation": "Medium-High",
+    "temperature_min": "64",
+    "temperature_max": "74",
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
+    "id": "209",
+    "laboratory": "Wyeast",
+    "strain": "1217",
+    "name": "West Coast IPA",
+    "description": "This strain is ideally suited to the production of west-coast style American craft beers, especially pale, IPA, red, and specialties. Thorough attenuation, temp tolerance, and good flocculation make this an easy strain to work with. Flavor is balanced neutral with mild ester formation at warmer temps, allowing hops, character malts, and flavorings to show through.",
+    "attenuation_min": "73",
+    "attenuation_max": "80",
+    "flocculation": "Medium-High",
+    "temperature_min": "62",
+    "temperature_max": "74",
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
+    "id": "210",
+    "laboratory": "Wyeast",
+    "strain": "1338",
+    "name": "European Ale Yeast",
+    "description": "A full-bodied strain, finishing very malty with a complex flavor profile. This strain’s characteristics are very desirable in English style brown ales and porters. It produces a dense, rocky head during fermentation, and can be a slow to start and to attenuate. This yeast may continue to produce CO2 for an extended period after packaging or collection.",
+    "attenuation_min": "67",
+    "attenuation_max": "71",
+    "flocculation": "High",
+    "temperature_min": "62",
+    "temperature_max": "72",
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
+    "id": "211",
+    "laboratory": "Wyeast",
+    "strain": "1581",
+    "name": "Belgian Stout",
+    "description": "A very versatile ale strain from Belgium. Excellent for Belgian stout and Belgian Specialty ales. Ferments to dryness and produces moderate levels of esters without significant phenolic or spicy characteristics.",
+    "attenuation_min": "70",
+    "attenuation_max": "85",
+    "flocculation": "Medium",
+    "temperature_min": "65",
+    "temperature_max": "75",
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
+    "id": "212",
+    "laboratory": "Wyeast",
+    "strain": "1768",
+    "name": "English Special Bitter Yeast",
+    "description": "A great yeast for malt predominate ales. Produces light fruit and ethanol aromas along with soft, nutty flavors. Exhibits a mild malt profile with a neutral finish. Bright beers are easily achieved without any filtration. It is similar to our 1968 London ESB Ale but slightly less flocculent.",
+    "attenuation_min": "68",
+    "attenuation_max": "72",
+    "flocculation": "High",
+    "temperature_min": "64",
+    "temperature_max": "72",
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
+    "id": "213",
+    "laboratory": "Wyeast",
+    "strain": "1882",
+    "name": "Thames Valley II Yeast",
+    "description": "This strain was originally sourced from a now defunct brewery on the banks of the river Thames outside of Oxford, England. Thames Valley II produces crisp, dry beers with a rich malt profile and moderate stone fruit esters. This attenuative strain is also highly flocculent resulting in bright beers not requiring filtration. A thorough diacetyl rest is recommended after fermentation is complete.",
+    "attenuation_min": "72",
+    "attenuation_max": "78",
+    "flocculation": "High",
+    "temperature_min": "60",
+    "temperature_max": "70",
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
+    "id": "214",
+    "laboratory": "Wyeast",
+    "strain": "2005",
+    "name": "Cerveza Mexicana Lager",
+    "description": "This strain is well-suited to delicate lager styles where balance is key. Neutral flavor with crisp finish allows refined, subtle malt flavors to come through. Production of diacetyl and sulfur during fermentation is typically low.",
+    "attenuation_min": "71",
+    "attenuation_max": "76",
+    "flocculation": "Medium",
+    "temperature_min": "48",
+    "temperature_max": "56",
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
+    "id": "215",
+    "laboratory": "Wyeast",
+    "strain": "2247",
+    "name": "European Lager II",
+    "description": "Clean, dry flavor profile often used in aggressively hopped pilsner. Mild aromatics, slight sulfur production, dry finish.",
+    "attenuation_min": "73",
+    "attenuation_max": "77",
+    "flocculation": "Low",
+    "temperature_min": "46",
+    "temperature_max": "56",
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
+    "id": "216",
+    "laboratory": "Wyeast",
+    "strain": "2252",
+    "name": "Rasenmäher Lager Yeast",
+    "description": "This versatile lager strain is an excellent choice for brewing your favorite low alcohol lawnmower beer. Fermentations at low temperatures will produce clean lagers that accentuate the malt character of the beer. At high temperatures this strain maintains much of the lager character, but will also yield a mild ester profile that compliments hop aromas and flavors.",
+    "attenuation_min": "73",
+    "attenuation_max": "77",
+    "flocculation": "Low",
+    "temperature_min": "48",
+    "temperature_max": "68",
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
+    "id": "217",
+    "laboratory": "Wyeast",
+    "strain": "2272",
+    "name": "North American Lager",
+    "description": "Traditional culture of North American and Canadian lagers, light pilsners and adjunct beers. Mildly malty profile, medium ester profile, well balanced. Malty finish.",
+    "attenuation_min": "70",
+    "attenuation_max": "76",
+    "flocculation": "High",
+    "temperature_min": "48",
+    "temperature_max": "56",
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
+    "id": "218",
+    "laboratory": "Wyeast",
+    "strain": "2352",
+    "name": "Munich Lager II",
+    "description": "From a famous brewery in Munich, this strain is a low diacetyl and low sulfur aroma producer. An excellent choice for malt driven lagers.",
+    "attenuation_min": "72",
+    "attenuation_max": "74",
+    "flocculation": "Medium",
+    "temperature_min": "52",
+    "temperature_max": "62",
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
+    "id": "219",
+    "laboratory": "Wyeast",
+    "strain": "2487",
+    "name": "Hella Bock",
+    "description": "Direct from the Austrian Alps, this strain will produce rich, full-bodied and malty beers with a complex flavor profile and a great mouth feel. Attenuates well while still leaving plenty of malt character and body. Beers fermented with this strain will benefit from a temperature rise for a diacetyl rest at the end of primary fermentation.",
+    "attenuation_min": "70",
+    "attenuation_max": "74",
+    "flocculation": "Medium",
+    "temperature_min": "48",
+    "temperature_max": "56",
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
+    "id": "220",
+    "laboratory": "Wyeast",
+    "strain": "2575",
+    "name": "Kölsch II",
+    "description": "This authentic Kolsch strain from one of Germany’s leading brewing schools has a rich flavor profile which accentuates a soft malt finish. It has Low or no detectable diacetyl production and will also ferment well at colder temperatures for fast lager type beers.",
+    "attenuation_min": "73",
+    "attenuation_max": "77",
+    "flocculation": "Low",
+    "temperature_min": "55",
+    "temperature_max": "70",
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
+    "id": "221",
+    "laboratory": "Wyeast",
+    "strain": "2782",
+    "name": "Staro Prague Lager Yeast",
+    "description": "This yeast will help create medium to full body lagers with moderate fruit and bready malt flavors. The balance is slightly toward malt sweetness and will benefit from additional hop bittering. A fantastic strain for producing classic Bohemian lagers.",
+    "attenuation_min": "70",
+    "attenuation_max": "74",
+    "flocculation": "High",
+    "temperature_min": "50",
+    "temperature_max": "58",
+    "tolerance": "11",
+    "form": "Liquid"
+  },
+  {
+    "id": "222",
+    "laboratory": "Wyeast",
+    "strain": "3191",
+    "name": "Berliner-Weisse Blend",
+    "description": "This blend includes a German ale strain with low ester formation and a dry, crisp finish. The Lactobacillus included produces moderate levels of acidity. The unique Brettanomyces strain imparts a critical earthy characteristic that is indicative of a true Berliner Weisse. When this blend is used, expect a slow start to fermentation as the yeast and bacteria in the blend is balanced to allow proper acid production. It generally requires 3-6 months of aging to fully develop flavor characteristics. Use this blend with worts containing extremely low hopping rates.",
+    "attenuation_min": "73",
+    "attenuation_max": "77",
+    "flocculation": "Low",
+    "temperature_min": "68",
+    "temperature_max": "72",
+    "tolerance": "6",
+    "form": "Liquid"
+  },
+  {
+    "id": "223",
+    "laboratory": "Wyeast",
+    "strain": "3203",
+    "name": "De Bom Sour Blend",
+    "description": "Wyeast’s QC Manager and World’s Tallest Microbiologist Greg Doss developed De Bom to create authentic Old- and New-World sour ale profiles but in a fraction of the time required by previous, less manly cultures. For best results, we recommend the following: no O2/aeration at beginning of fermentation; periodic dosing with O2 during fermentation to stimulate ethyl acetate production; frequent sampling to monitor development and complexity. Under optimum conditions, beers can be ready for consumption in 1-2 months.",
+    "attenuation_min": "75",
+    "attenuation_max": "85",
+    "flocculation": "",
+    "temperature_min": "80",
+    "temperature_max": "85",
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
+    "id": "224",
+    "laboratory": "Wyeast",
+    "strain": "3209",
+    "name": "Oud Bruin Blend",
+    "description": "Because the people don’t want something new … they want something Oud. And Bruin. This new exclusive sour blend is built for dark, malt-accented sour styles – like 3763 Roselaere™ it will create sharp acidity, but unlike 3763 it will leave the malt character intact, creating a balanced and complex end product. Excellent base for blending fruit in secondary (especially cherries or raspberries) and makes for an interesting Saison.",
+    "attenuation_min": "70",
+    "attenuation_max": "80",
+    "flocculation": "",
+    "temperature_min": "80",
+    "temperature_max": "85",
+    "tolerance": "10",
+    "form": "Liquid"
+  },
+  {
+    "id": "225",
+    "laboratory": "Wyeast",
+    "strain": "3278",
+    "name": "Belgian Lambic Blend",
+    "description": "Lambic culture of Saccharomyces Cerevisiar and a mixture of yeasts and bacterias.  Blend of organisms helps create lactic flavor of Belgian Lambics.",
+    "attenuation_min": "70",
+    "attenuation_max": "80",
+    "flocculation": "Low",
+    "temperature_min": "63",
+    "temperature_max": "75",
+    "tolerance": "11",
+    "form": "Liquid"
+  },
+  {
+    "id": "226",
+    "laboratory": "Wyeast",
+    "strain": "3538",
+    "name": "Leuven Pale Ale Yeast",
+    "description": "This vigorous top fermenting Belgian style strain produces a distinct spicy character along with mild esters. Phenolics developed during fermentation may dissipate with conditioning. 3538 is an excellent choice for a variety of Belgian beer styles including pales, dubbels, and brown ales.",
+    "attenuation_min": "75",
+    "attenuation_max": "78",
+    "flocculation": "High",
+    "temperature_min": "65",
+    "temperature_max": "80",
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
+    "id": "227",
+    "laboratory": "Wyeast",
+    "strain": "3655",
+    "name": "Belgian Schelde Ale",
+    "description": "From the East Flanders - Antwerpen region of Belgium, this unique top fermenting yeast produces complex, classic Belgian aromas and flavors that meld well with premium quality pale and crystal malts. Well rounded and smooth textures are exhibited with a full bodied malty profile and mouthfeel.",
+    "attenuation_min": "73",
+    "attenuation_max": "77",
+    "flocculation": "Medium",
+    "temperature_min": "62",
+    "temperature_max": "74",
+    "tolerance": "11",
+    "form": "Liquid"
+  },
+  {
+    "id": "228",
+    "laboratory": "Wyeast",
+    "strain": "3725",
+    "name": "Biere de Garde",
+    "description": "Low to moderate ester production with subtle spiciness. Malty and full on the palate with initial sweetness. Finishes dry and slightly tart. Ferments well with no sluggishness.",
+    "attenuation_min": "74",
+    "attenuation_max": "79",
+    "flocculation": "Low",
+    "temperature_min": "70",
+    "temperature_max": "84",
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
+    "id": "229",
+    "laboratory": "Wyeast",
+    "strain": "3726",
+    "name": "Farmhouse Ale",
+    "description": "This strain produces complex esters balanced with earthy/spicy notes. Slightly tart and dry with a peppery finish. A perfect strain for farmhouse ales and saisons.",
+    "attenuation_min": "74",
+    "attenuation_max": "79",
+    "flocculation": "Medium",
+    "temperature_min": "70",
+    "temperature_max": "84",
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
+    "id": "230",
+    "laboratory": "Wyeast",
+    "strain": "3739",
+    "name": "Flanders Golden Ale Yeast",
+    "description": "This well balanced strain from northern Belgium will produce moderate levels of both fruity esters and spicy phenols while finishing dry with a hint of malt. 3739-PC is a robust & versatile strain that performs nicely in a broad range of Belgian styles.",
+    "attenuation_min": "74",
+    "attenuation_max": "78",
+    "flocculation": "Medium-Low",
+    "temperature_min": "64",
+    "temperature_max": "80",
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
+    "id": "231",
+    "laboratory": "Wyeast",
+    "strain": "3763",
+    "name": "Roselare Belgian Blend",
+    "description": "Our blend of lambic cultures produce beer with a complex, earthy profile and a distinctive pie cherry sourness. Aging up to 18 months is required for a full flavor profile and acidity to develop. Specific proportions of a Belgian style ale strain, a sherry strain, two Brettanomyces strains, a Lactobacillus culture, and a Pediococcus culture produce the desirable flavor components of these beers as they are brewed in West Flanders. Propagation of this culture is not recommended and will result in a change of the proportions of the individual components. This blend will produce a very dry beer due to the super-attenuative nature of the mixed cultures.",
+    "attenuation_min": "80",
+    "attenuation_max": "80",
+    "flocculation": "Medium",
+    "temperature_min": "55",
+    "temperature_max": "80",
+    "tolerance": "11",
+    "form": "Liquid"
+  },
+  {
+    "id": "232",
+    "laboratory": "Wyeast",
+    "strain": "3789",
+    "name": "Trappist Blend",
+    "description": "A unique blend of Belgian Saccharomyces and Brettanomyces for emulating Trappist style beer from the Florenville region in Belgium. Phenolics, mild fruitiness and complex spicy notes develop with increased fermentation temperatures. Subdued but classic Brett character.",
+    "attenuation_min": "75",
+    "attenuation_max": "80",
+    "flocculation": "Medium",
+    "temperature_min": "68",
+    "temperature_max": "85",
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
+    "id": "233",
+    "laboratory": "Wyeast",
+    "strain": "3822",
+    "name": "Dutch Castle",
+    "description": "Spicy, phenolic, and tart in the nose. Very tart and dry on the palate. Phenols and esters well balanced, with a very dry and complex finish. High acid producer.",
+    "attenuation_min": "74",
+    "attenuation_max": "79",
+    "flocculation": "Medium",
+    "temperature_min": "65",
+    "temperature_max": "80",
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
+    "id": "234",
+    "laboratory": "Wyeast",
+    "strain": "3864",
+    "name": "Canadian/Belgian Ale",
+    "description": "This alcohol tolerant strain produces complex and well-balanced Belgian Abbey style ales. Banana and fruit esters are complemented nicely with mild levels of phenolics and hints of acidity. Ester levels may be elevated by increasing gravity and fermentation temperatures.",
+    "attenuation_min": "75",
+    "attenuation_max": "79",
+    "flocculation": "Medium",
+    "temperature_min": "65",
+    "temperature_max": "80",
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
+    "id": "235",
+    "laboratory": "Wyeast",
+    "strain": "4184",
+    "name": "Sweet Mead",
+    "description": "One of two strains for mead making. Leaves 2-3% residual sugar in most meads. Rich, fruity profile complements fruit mead fermentation. Use additional nutrients for mead making.",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "Medium",
+    "temperature_min": "65",
+    "temperature_max": "75",
+    "tolerance": "11",
+    "form": "Liquid"
+  },
+  {
+    "id": "236",
+    "laboratory": "Wyeast",
+    "strain": "4335",
+    "name": "Lactobacillus",
+    "description": "Lactic acid bacteria isolated from a Belgian brewery. This culture produces moderate levels of acidity and is commonly found in many types of beers including gueuze, lambics, sour brown ales and Berliner Weisse. It is always used in conjunction with S.cerevisiae and often with various wild yeast. Use in wort or beer below 10 IBU is recommended due to the culture’s sensitivity to hop compounds.",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "",
+    "temperature_min": "60",
+    "temperature_max": "95",
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
+    "id": "237",
+    "laboratory": "Wyeast",
+    "strain": "5112",
+    "name": "Brettanomyces Bruxellensis",
+    "description": "This strain of wild yeast was isolated from brewery cultures in the Brussels region of Belgium. It produces the classic “sweaty horse blanket” character of indigenous beers such as gueuze, lambics and sour browns and may form a pellicle in bottles or casks. The strain is generally used in conjunction with S. cerevisiae, as well as other wild yeast and lactic bacteria. At least 3-6 months aging is generally required for flavor to fully develop.",
+    "attenuation_min": "80",
+    "attenuation_max": "85",
+    "flocculation": "Medium",
+    "temperature_min": "60",
+    "temperature_max": "75",
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
+    "id": "238",
+    "laboratory": "Wyeast",
+    "strain": "5223",
+    "name": "Lactobacillus Brevis",
+    "description": "Unlike most lactic acid bacteria used in brewing, Lactobacillus brevis will tolerate higher levels of IBUs in wort. 5223 will produce alcohol along with lactic acid during fermentation. Excellent for remixing the profile in a Lambic-style or Flanders sour ale, or for kettle souring wort for a balanced Berliner Weisse.",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "",
+    "temperature_min": "60",
+    "temperature_max": "95",
+    "tolerance": "9",
+    "form": "Liquid"
+  },
+  {
+    "id": "239",
+    "laboratory": "Wyeast",
+    "strain": "5335",
+    "name": "Lactobacillus",
+    "description": "Lactic acid bacteria isolated from a Belgian brewery. This culture produces moderate levels of acidity and is commonly found in many types of beers including gueuze, lambics, sour brown ales and Berliner Weisse. It is always used in conjunction with S.cer",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "Medium",
+    "temperature_min": "60",
+    "temperature_max": "95",
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
+    "id": "240",
+    "laboratory": "Wyeast",
+    "strain": "5526",
+    "name": "Brettanomyces Lambicus",
+    "description": "This is a wild yeast strain isolated from Belgian lambic beers. It produces a pie cherry-like flavor and sourness along with distinct “Brett” character. A pellicle may form in bottles or casks. To produce the classic Belgian character, this strain works best in conjunction with other yeast and lactic bacteria. It generally requires 3-6 months of aging to fully develop flavor characteristics.",
+    "attenuation_min": "80",
+    "attenuation_max": "85",
+    "flocculation": "Very High",
+    "temperature_min": "60",
+    "temperature_max": "75",
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
+    "id": "241",
+    "laboratory": "Wyeast",
+    "strain": "5733",
+    "name": "Pediococcus",
+    "description": "Lactic acid bacteria used in the production of Belgian style beers where additional acidity is desirable. Often found in gueuze and other Belgian style beer. Acid production will increase with storage time. It may also cause “ropiness” and produce low levels of diacetyl with extended storage time.",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "Medium",
+    "temperature_min": "65",
+    "temperature_max": "95",
+    "tolerance": "0",
+    "form": "Liquid"
+  },
+  {
+    "id": "242",
+    "laboratory": "Wyeast",
+    "strain": "9097",
+    "name": "Old Ale Blend",
+    "description": "To bring you a bit of English brewing heritage we developed the “Old Ale” blend, including an attenuative ale strain and a Brettanomyces strain, which will ferment well in dark worts and produce beers with nice fruitiness. Complex estery characters will emerge with age. Pie cherry and sourness will evolve from the Brettanomyces along with distinct horsey characteristics.",
+    "attenuation_min": "75",
+    "attenuation_max": "80",
+    "flocculation": "Medium",
+    "temperature_min": "68",
+    "temperature_max": "75",
+    "tolerance": "12",
+    "form": "Liquid"
+  },
+  {
+    "id": "243",
+    "laboratory": "mauribrew",
+    "strain": "Y1433",
+    "name": "Weiss",
+    "description": "Mauribrew Weiss produces large quantities of fermentation aromas (esters, higher alcohols) that contribute to the complexity of Germanstyle wheat beers. Mauribrew Weiss is also suitable for special beers made with macerated fruits, honey or any kind of sugar based additional ingredients.",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "",
+    "temperature_min": "59",
+    "temperature_max": "86",
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
+    "id": "244",
+    "laboratory": "mauribrew",
+    "strain": "Y497",
+    "name": "Lager 497",
+    "description": "Lager 497 is a bottom fermenting lager yeast that produces highly desirable flavour characteristics consistent with quality lager beer. While producing almost no yeast head during fermentation, it is a rapid fermenter with a low oxygen requirement, generally completing within 5 days. This strain has good settling properties, resulting in a green beer of good clarity.",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "",
+    "temperature_min": "50",
+    "temperature_max": "59",
+    "tolerance": "0",
+    "form": "Dry"
+  },
+  {
+    "id": "245",
+    "laboratory": "mauribrew",
+    "strain": "Y514",
+    "name": "Ale 514",
+    "description": "This strain was selected based on its ability to produce English-style ales. It is a strong fermenting strain with rapid attenuation of fermentable sugars. Most noteworthy is this strains alcohol tolerance, producing commercial ales with up to 9.5% alcohol.",
+    "attenuation_min": "0",
+    "attenuation_max": "0",
+    "flocculation": "",
+    "temperature_min": "68",
+    "temperature_max": "90",
+    "tolerance": "10",
+    "form": "Dry"
+  }
+]
