@@ -1568,20 +1568,6 @@
     "form": "Liquid"
   },
   {
-    "id": "119",
-    "laboratory": "Wyeast",
-    "strain": "1272",
-    "name": "American Ale II",
-    "description": "With many of the best qualities that brewers look for when brewing American styles of beer, this strain’s performance is consistent and it makes great beer. This versatile strain is a very good choice for a “House” strain. Expect a soft, clean profile with hints of nut, and a slightly tart finish. Ferment at warmer temperatures to accentuate hop character with an increased fruitiness. Or, ferment cool for a clean, light citrus character. It attenuates well and is reliably flocculent, producing bright beer without filtration.",
-    "attenuation_min": "72",
-    "attenuation_max": "76",
-    "flocculation": "Medium",
-    "temperature_min": "60",
-    "temperature_max": "72",
-    "tolerance": "10",
-    "form": "Liquid"
-  },
-  {
     "id": "120",
     "laboratory": "Wyeast",
     "strain": "1275",
