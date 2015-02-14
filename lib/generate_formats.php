@@ -1,15 +1,15 @@
 <?php
 
 //CONFIG
-$config = json_decode(file_get_contents("config.json"), true);
+$config = json_decode(file_get_contents(__DIR__."/../config.json"), true);
 
 // SCRIPTS VARS
-$master_file = $config['data']."_master.json";
+$master_file = __DIR__."/../src/".$config['data']."_master.json";
 $json = file_get_contents($master_file);
 $array = json_decode($json, true);
 
 // CONVERT MASTER FILE TO CSV
-$f_csv = fopen('formats/'.$config['data'].'.csv', 'w');
+$f_csv = fopen(__DIR__.'/../formats/'.$config['data'].'.csv', 'w');
 
 $keys_set = false;
 foreach ($array as $line){
@@ -21,7 +21,7 @@ foreach ($array as $line){
 }
 
 //CONVERT MASTER FILE TO MYSQL INSERT STATEMENTS
-$f_mysql = fopen('formats/'.$config['data'].'.mysql', 'w');
+$f_mysql = fopen(__DIR__.'/../formats/'.$config['data'].'.mysql', 'w');
 
 $keys_set = false;
 foreach ($array as $line){
@@ -43,4 +43,4 @@ foreach ($array as $line){
 fwrite($f_mysql, implode(",\n", $insert_values));
 
 // COPY MASTER FILE TO FORMATS
-copy($master_file, "formats/".$config['data'].".json");
+copy($master_file, __DIR__."/../formats/".$config['data'].".json");
