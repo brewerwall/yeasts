@@ -3882,7 +3882,7 @@
         "laboratory": "Imperial Organic Yeast",
         "strain": "L05",
         "name": "Cablecar",
-        "description": "This strain is for fermenting your \"California Common\" beer. Cablecar can produce clean pseudo lagers at ale temperatures, but is also willing to work as a traditional lager strain down to the mid 50s.",
+        "description": "This strain is for fermenting your “California Common” beer. Cablecar can produce clean pseudo lagers at ale temperatures, but is also willing to work as a traditional lager strain down to the mid 50s.",
         "attenuation_min": "71",
         "attenuation_max": "75",
         "flocculation": "Medium-High",
