@@ -294,4 +294,4 @@ id,laboratory,strain,name,description,attenuation_min,attenuation_max,flocculati
 313,"Fermentum Mobile",FM50,"Kansas Ears","Versatile American strain with low ester production. Extended temperature range.",74,78,Medium,57,72,10,Liquid
 314,"Fermentum Mobile",FM51,Oakengate,"Unique Polish strain used in Grodzisk Wielkopolski for the production of Grodziskie, a traditional all-wheat, oak-smoked, light beer.",63,76,Low,64,72,9,Liquid
 315,"Fermentum Mobile",FM52,"American Dream","Clean profile American strain, recommended for American ales.",73,77,Low/Medium,60,72,11,Liquid
-311,"Fermentum Mobile",FM53,"Voss Kveik","Traditional Norwegian strain coming from the village of Voss. Acquired courtesy of Sigmund Gjernes. It gives a sweet feeling, rich in fruit flavor.",68,80,Medium/High,68,104,10,Liquid
+316,"Fermentum Mobile",FM53,"Voss Kveik","Traditional Norwegian strain coming from the village of Voss. Acquired courtesy of Sigmund Gjernes. It gives a sweet feeling, rich in fruit flavor.",68,80,Medium/High,68,104,10,Liquid
